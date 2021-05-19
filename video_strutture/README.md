@@ -1,5 +1,11 @@
-## [Strutture in C](https://youtu.be/n_lCuXi5-NQ)
+## [Strutture in C](https://youtu.be/UdgcvCKpNGg)
 
-<a href="https://youtu.be/xliSzKnQOtM">
-  <img src="https://i.ytimg.com/vi/xliSzKnQOtM/maxresdefault.jpg" width="60%"> 
+<a href="https://youtu.be/UdgcvCKpNGg">
+  <img src="https://i.ytimg.com/vi/UdgcvCKpNGg/maxresdefault.jpg" width="60%"> 
+</a>
+
+## [Strutture + Typedef in C](https://youtu.be/PfzD6wAxOoc)
+
+<a href="https://youtu.be/PfzD6wAxOoc">
+  <img src="https://i.ytimg.com/vi/PfzD6wAxOoc/maxresdefault.jpg" width="60%"> 
 </a>
