@@ -22,8 +22,8 @@ int main() {
 
     for (int i = 0; i < 20; i++) {
         strcpy(album[i].title, "Black Magic");
+        
         album[i].duration = 60 * 2 + 54;
-
         album[i].artista = artista;
 
         printf("%s, %f, (%s, %s, %d)\n", album[i].title, album[i].duration, album[i].artista.stage_name,
