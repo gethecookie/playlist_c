@@ -16,4 +16,4 @@ Link a playlist: [Tutto ciò che non hai capito sul C](https://www.youtube.com/p
 | argc & argv                 | [https://youtu.be/Qx5DzcdGvXw](https://youtu.be/Qx5DzcdGvXw) |
 | Strutture                   | [https://youtu.be/E-RbjHj72Fk](https://youtu.be/E-RbjHj72Fk) |
 | Strutture: Extra Bits       | [https://youtu.be/PfzD6wAxOoc](https://youtu.be/PfzD6wAxOoc) |
-| Segnaposto                  | [https://youtu.be/nmNn4gvQUF4](https://youtu.be/nmNn4gvQUF4) |
+| Segnaposto                  | [https://youtu.be/8N5KfbpwHYI](https://youtu.be/8N5KfbpwHYI) |
