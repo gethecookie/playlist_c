@@ -1,13 +1,19 @@
-# [Playlist: <i>"Tutto ciò che non hai capito sul C"</i>](https://www.youtube.com/playlist?list=PLVtGJfbzVd1GiC_EmIZ9sKBd614-L8_CE)
+# Playlist C GTC
 
-## Indice Video YouTube
-- Bitmask ed Enum [<i>video</i>](https://www.youtube.com/watch?v=5WaNrdXeOqU) - [<i color="black">codice</i>](video_enum-BitMask)
-- Enum: [<i>video</i>](https://youtu.be/DZtHYgWxg54) - [<i color="black">codice</i>](video_enum)
-- Typedef: [<i>video</i>](https://youtu.be/TkQUWo2TQ-M) - [<i color="black">codice</i>](video_typedef)
-- Allocazione Dinamica di Array: [<i>video</i>](https://youtu.be/Y_c960W3-5U) - [<i color="black">codice</i>](video_array-dinamici)
-- Parametri argc e argv: [<i>video</i>](https://youtu.be/Qx5DzcdGvXw) - [<i color="black">codice</i>](video_argc-argv)
-- File: [<i>video</i>](https://youtu.be/n_lCuXi5-NQ) - [<i color="black">codice</i>](video_file)
-- [Puntatori a funzione](https://youtu.be/p4TWTtVNE3c)
-- [Puntatori a puntatore](https://youtu.be/VSIJcHJBLP0)
-- [Puntatori: aritmetica e relazione con array](https://youtu.be/HO7-fWSR5UA)
-- [Puntatori: introduzione](https://youtu.be/uzMZetWDIOU)
+Link a playlist: [Tutto ciò che non hai capito sul C](https://www.youtube.com/playlist?list=PLVtGJfbzVd1GiC_EmIZ9sKBd614-L8_CE)
+
+| Titilo                      | Video                                                        |
+|-----------------------------|------------------------------------------------------------- |
+| Puntatori: introduzione (I) | [https://youtu.be/uzMZetWDIOU](https://youtu.be/uzMZetWDIOU) |
+| Puntatori: aritmetica (II)  | [https://youtu.be/HO7-fWSR5UA](https://youtu.be/HO7-fWSR5UA) |
+| Puntatori a puntatore (III) | [https://youtu.be/VSIJcHJBLP0](https://youtu.be/VSIJcHJBLP0) |
+| Puntatori a funzione (IV)   | [https://youtu.be/p4TWTtVNE3c](https://youtu.be/p4TWTtVNE3c) |
+| File in C                   | [https://youtu.be/n_lCuXi5-NQ](https://youtu.be/n_lCuXi5-NQ) |
+| Memoria Dinamica            | [https://youtu.be/Y_c960W3-5U](https://youtu.be/Y_c960W3-5U) |
+| Typedef                     | [https://youtu.be/TkQUWo2TQ-M](https://youtu.be/TkQUWo2TQ-M) |
+| Enum                        | [https://youtu.be/DZtHYgWxg54](https://youtu.be/DZtHYgWxg54) |
+| Enum+Bitmask                | [https://youtu.be/5WaNrdXeOqU](https://youtu.be/5WaNrdXeOqU) |
+| argc & argv                 | [https://youtu.be/Qx5DzcdGvXw](https://youtu.be/Qx5DzcdGvXw) |
+| Strutture                   | [https://youtu.be/E-RbjHj72Fk](https://youtu.be/E-RbjHj72Fk) |
+| Strutture: Extra Bits       | [https://youtu.be/PfzD6wAxOoc](https://youtu.be/PfzD6wAxOoc) |
+| Segnaposto                  | [https://youtu.be/nmNn4gvQUF4](https://youtu.be/nmNn4gvQUF4) |
