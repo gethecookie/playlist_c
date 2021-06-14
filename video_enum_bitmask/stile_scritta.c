@@ -19,4 +19,6 @@ int main() {
     
     if (scritta & Sottolineato)
         printf("\nScritta in sottolineato");
+
+    return 0;
 }

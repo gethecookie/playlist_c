@@ -24,8 +24,8 @@ void print_all(double i) {
     printf("\nExp\n");
     printf("%%e > %e\n", i);
 
-    printf("\nStringa\n");
-    printf("%%s > %s\n", i);
+    printf("\nStringa\n");    // Stringhe
+    //printf("%%s > %s\n", i);
 }
 
 void print_ptr(int *ptr) {
