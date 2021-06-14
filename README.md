@@ -17,3 +17,4 @@ Link a playlist: [Tutto ciò che non hai capito sul C](https://www.youtube.com/p
 | Strutture                   | [https://youtu.be/E-RbjHj72Fk](https://youtu.be/E-RbjHj72Fk) |
 | Strutture: Extra Bits       | [https://youtu.be/PfzD6wAxOoc](https://youtu.be/PfzD6wAxOoc) |
 | Segnaposto                  | [https://youtu.be/8N5KfbpwHYI](https://youtu.be/8N5KfbpwHYI) |
+| Stringhe                    | [https://youtu.be/3XUXszo63GI](https://youtu.be/3XUXszo63GI) |
