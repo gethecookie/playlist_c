@@ -5,20 +5,20 @@
     <a href="https://github.com/gethecookie/playlist_c/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
 </p>
 
-| Titilo                       | Video                                                        |
-|------------------------------|------------------------------------------------------------- |
-| Puntatori: Introduzione (I)  | [https://youtu.be/uzMZetWDIOU](https://youtu.be/uzMZetWDIOU) |
-| Puntatori: Aritmetica (II)   | [https://youtu.be/HO7-fWSR5UA](https://youtu.be/HO7-fWSR5UA) |
-| Puntatori a Puntatore (III)  | [https://youtu.be/VSIJcHJBLP0](https://youtu.be/VSIJcHJBLP0) |
-| Puntatori a Funzione (IV)    | [https://youtu.be/p4TWTtVNE3c](https://youtu.be/p4TWTtVNE3c) |
-| File in C                    | [https://youtu.be/n_lCuXi5-NQ](https://youtu.be/n_lCuXi5-NQ) |
-| Memoria Dinamica             | [https://youtu.be/Y_c960W3-5U](https://youtu.be/Y_c960W3-5U) |
-| Typedef                      | [https://youtu.be/TkQUWo2TQ-M](https://youtu.be/TkQUWo2TQ-M) |
-| Enum                         | [https://youtu.be/DZtHYgWxg54](https://youtu.be/DZtHYgWxg54) |
-| Enum e Bitmask               | [https://youtu.be/5WaNrdXeOqU](https://youtu.be/5WaNrdXeOqU) |
-| argc & argv                  | [https://youtu.be/Qx5DzcdGvXw](https://youtu.be/Qx5DzcdGvXw) |
-| Strutture                    | [https://youtu.be/E-RbjHj72Fk](https://youtu.be/E-RbjHj72Fk) |
-| Strutture e Typedef          | [https://youtu.be/PfzD6wAxOoc](https://youtu.be/PfzD6wAxOoc) |
-| Segnaposto                   | [https://youtu.be/8N5KfbpwHYI](https://youtu.be/8N5KfbpwHYI) |
-| Stringhe                     | [https://youtu.be/3XUXszo63GI](https://youtu.be/3XUXszo63GI) |
-| Segmentazione Memoria        | N/A |
+| Titilo                       | Codice                                                                                  |   Link video:                |
+|------------------------------|-----------------------------------------------------------------------------------------|------------------------------|
+| Puntatori: Introduzione (I)  | N/A                                                                                     | https://youtu.be/uzMZetWDIOU |
+| Puntatori: Aritmetica (II)   | N/A                                                                                     | https://youtu.be/HO7-fWSR5UA |
+| Puntatori a Puntatore (III)  | N/A                                                                                     | https://youtu.be/VSIJcHJBLP0 |
+| Puntatori a Funzione (IV)    | N/A                                                                                     | https://youtu.be/p4TWTtVNE3c |
+| Allocazione Dinamica         |[vai al codice](https://github.com/gethecookie/playlist_c/tree/main/video_array_dinamici)| https://youtu.be/Y_c960W3-5U |
+| File in C                    |[vai al codice](https://github.com/gethecookie/playlist_c/tree/main/video_file)          | https://youtu.be/n_lCuXi5-NQ |
+| argc & argv                  |[vai al codice](https://github.com/gethecookie/playlist_c/tree/main/video_argc_argv)     | https://youtu.be/Qx5DzcdGvXw |
+| Typedef                      |[vai al codice](https://github.com/gethecookie/playlist_c/tree/main/video_typedef)       | https://youtu.be/TkQUWo2TQ-M |
+| Enum                         |[vai al codice](https://github.com/gethecookie/playlist_c/tree/main/video_enum)          | https://youtu.be/DZtHYgWxg54 |
+| Enum e Bitmask               |[vai al codice](https://github.com/gethecookie/playlist_c/tree/main/video_enum_bitmask)  | https://youtu.be/5WaNrdXeOqU |
+| Strutture                    |[vai al codice](https://github.com/gethecookie/playlist_c/tree/main/video_strutture)     | https://youtu.be/E-RbjHj72Fk |
+| Strutture e Typedef          | N/A                                                                                     | https://youtu.be/PfzD6wAxOoc |
+| Stringhe                     |[vai al codice](https://github.com/gethecookie/playlist_c/tree/main/video_stringhe)      | https://youtu.be/3XUXszo63GI |
+| Segnaposto                   |[vai al codice](https://github.com/gethecookie/playlist_c/tree/main/video_segnaposto)    | https://youtu.be/8N5KfbpwHYI |
+| Ricorsione                   | N/A                                                                                     | https://youtu.be/VVXpYwXdgTI |
