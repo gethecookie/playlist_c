@@ -18,7 +18,7 @@
 | Enum                         |[vai al codice](https://github.com/gethecookie/playlist_c/tree/main/video_enum)          | https://youtu.be/DZtHYgWxg54 |
 | Enum e Bitmask               |[vai al codice](https://github.com/gethecookie/playlist_c/tree/main/video_enum_bitmask)  | https://youtu.be/5WaNrdXeOqU |
 | Strutture                    |[vai al codice](https://github.com/gethecookie/playlist_c/tree/main/video_strutture)     | https://youtu.be/E-RbjHj72Fk |
-| Strutture e Typedef          | N/A                                                                                     | https://youtu.be/PfzD6wAxOoc |
+| Strutture e Typedef          |[vai al codice](https://github.com/gethecookie/playlist_c/tree/main/video_strutture)     | https://youtu.be/PfzD6wAxOoc |
 | Stringhe                     |[vai al codice](https://github.com/gethecookie/playlist_c/tree/main/video_stringhe)      | https://youtu.be/3XUXszo63GI |
 | Segnaposto                   |[vai al codice](https://github.com/gethecookie/playlist_c/tree/main/video_segnaposto)    | https://youtu.be/8N5KfbpwHYI |
 | Ricorsione                   | N/A                                                                                     | https://youtu.be/VVXpYwXdgTI |
