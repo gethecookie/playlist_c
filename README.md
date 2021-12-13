@@ -19,8 +19,8 @@
 | Enum e Bitmask               |[codice](https://github.com/gethecookie/playlist_c/tree/main/video_enum_bitmask)          | https://youtu.be/5WaNrdXeOqU |
 | Strutture                    |[codice](https://github.com/gethecookie/playlist_c/tree/main/video_strutture)             | https://youtu.be/E-RbjHj72Fk |
 | Strutture e Typedef          |[codice](https://github.com/gethecookie/playlist_c/tree/main/video_strutture)             | https://youtu.be/PfzD6wAxOoc |
+| Puntatori a Struttura (Arrow Operator)|[codice](https://github.com/gethecookie/playlist_c/tree/main/video_puntatori_a_struttura) | https://youtu.be/RMqAvwjvm_k |
 | Stringhe                     |[codice](https://github.com/gethecookie/playlist_c/tree/main/video_stringhe)              | https://youtu.be/3XUXszo63GI |
 | Segnaposto                   |[codice](https://github.com/gethecookie/playlist_c/tree/main/video_segnaposto)            | https://youtu.be/8N5KfbpwHYI |
 | Ricorsione                   | N/A                                                                                      | https://youtu.be/VVXpYwXdgTI |
-| Puntatori a Struttura        | ---                                                                                      | https://youtu.be/RMqAvwjvm_k |
-| Liste Concatenate            | ---                                                                                      | https://youtu.be/4ROR1kcwS10 |
+| Liste Concatenate            |[codice](https://github.com/gethecookie/playlist_c/tree/main/video_liste_concatenate)     | https://youtu.be/4ROR1kcwS10 |
