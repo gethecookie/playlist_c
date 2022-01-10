@@ -23,4 +23,4 @@
 | 14 | Puntatori a Struttura (Operatore ->)|[codice](https://github.com/gethecookie/playlist_c/tree/main/14_puntatori_a_struttura) | https://youtu.be/RMqAvwjvm_k |
 | 15 | Stringhe                            |[codice](https://github.com/gethecookie/playlist_c/tree/main/15_stringhe)              | https://youtu.be/3XUXszo63GI |
 | 16 | Segnaposto                          |[codice](https://github.com/gethecookie/playlist_c/tree/main/16_segnaposto)            | https://youtu.be/8N5KfbpwHYI |
-| 17 | Liste Concatenate                   |[codice](https://github.com/gethecookie/playlist_c/tree/main/)                         | https://youtu.be/Qhh5TcDudTw |
+| 17 | Liste Concatenate                   |[codice](https://github.com/gethecookie/Algoritmi_e_Strutture_Dati)                    | https://youtu.be/Qhh5TcDudTw |
