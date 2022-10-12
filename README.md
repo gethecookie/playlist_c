@@ -5,7 +5,7 @@
     <a href="https://github.com/gethecookie/playlist_c/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
 </p>
 
-|  # | Titilo                              | Codice                                                                                | Link video                   |
+|  # | Titolo                              | Codice                                                                                | Link video                   |
 |----|-------------------------------------|---------------------------------------------------------------------------------------|------------------------------|
 | 1  | Puntatori: Introduzione (I)         | N/A                                                                                   | https://youtu.be/uzMZetWDIOU |
 | 2  | Puntatori: Aritmetica (II)          | N/A                                                                                   | https://youtu.be/HO7-fWSR5UA |
@@ -24,3 +24,4 @@
 | 15 | Stringhe                            |[codice](https://github.com/gethecookie/playlist_c/tree/main/15_stringhe)              | https://youtu.be/3XUXszo63GI |
 | 16 | Segnaposto                          |[codice](https://github.com/gethecookie/playlist_c/tree/main/16_segnaposto)            | https://youtu.be/8N5KfbpwHYI |
 | 17 | Liste Concatenate                   |[codice](https://github.com/gethecookie/Algoritmi_e_Strutture_Dati)                    | https://youtu.be/Qhh5TcDudTw |
+| 18 | Pila (Stack)                        |[codice](https://github.com/gethecookie/Algoritmi_e_Strutture_Dati)                    | https://youtu.be/CmSyLTjHclQ |
