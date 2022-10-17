@@ -25,4 +25,4 @@
 | 16 | Segnaposto                          |[codice](https://github.com/gethecookie/playlist_c/tree/main/16_segnaposto)            | https://youtu.be/8N5KfbpwHYI |
 | 17 | Liste Concatenate                   |[codice](https://github.com/gethecookie/Algoritmi_e_Strutture_Dati)                    | https://youtu.be/Qhh5TcDudTw |
 | 18 | Pila (Stack)                        |[codice](https://github.com/gethecookie/Algoritmi_e_Strutture_Dati)                    | https://youtu.be/CmSyLTjHclQ |
-| 20 | Coda (Queue)                        |[codice](https://github.com/gethecookie/Algoritmi_e_Strutture_Dati)                    | https://youtu.be/Q4Ntph_sN5I |
+| 19 | Coda (Queue)                        |[codice](https://github.com/gethecookie/Algoritmi_e_Strutture_Dati)                    | https://youtu.be/Q4Ntph_sN5I |
